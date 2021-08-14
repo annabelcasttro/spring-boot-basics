@@ -1,2 +1,2 @@
-# spring-boot-basics
-Introduction to Spring Boot with examples
+# spring-boot-basics-thymeleaf
+Introduction to Spring Boot with examples using Thymeleaf.
